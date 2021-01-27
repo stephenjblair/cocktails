@@ -1,7 +1,7 @@
 import React from "react";
 
-const About = () => {
+const SearchForm = () => {
   return <div>about page</div>;
 };
 
-export default About;
+export default SearchForm;

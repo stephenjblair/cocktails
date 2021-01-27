@@ -1,11 +1,7 @@
-import React from 'react'
+import React from "react";
 
 const SingleCocktail = () => {
-    return (
-        <div>
-            single cocktail page
-        </div>
-    )
-}
+  return <div>single cocktail page</div>;
+};
 
-export default SingleCocktail
+export default SingleCocktail;
